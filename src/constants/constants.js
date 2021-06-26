@@ -42,9 +42,18 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-	{ year: 2017, text: 'Started my journey' },
-	{ year: 2018, text: 'Worked as a freelance developer' },
-	{ year: 2019, text: 'Founded JavaScript Mastery' },
-	{ year: 2020, text: 'Shared my projects with the world' },
-	{ year: 2021, text: 'Started my own platform' },
+	{
+		year: 2015,
+		text:
+			'Graduate my master from NJIT, worked as Facility Engineer for Verizon',
+	},
+	{
+		year: 2016,
+		text: 'Joined the US Army and went for training for 6 months.',
+	},
+	{
+		year: 2017,
+		text: 'Worked for MTA-New York City Transit as Electrical Engineer.',
+	},
+	{ year: 2020, text: 'Joined 100Devs agency as software engineer.' },
 ];

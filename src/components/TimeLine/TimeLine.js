@@ -67,11 +67,15 @@ const Timeline = () => {
 		<Section id='about'>
 			<SectionTitle>About me</SectionTitle>
 			<SectionText>
-				Graduated from New Jersey Institute of Technology with a M.S. in
-				Electrical Engineering, I've worked at MTA New York City Transit as an
-				Electrical Engineer, where I worked on projects designing and delivering
-				Public Address communication systems across NYC subway stations. <br />
-				Also I've been serving the Army Reserve as a vehicle mechanic since
+				After graduated from New Jersey Institute of Technology with a M.S. in
+				Electrical Engineering, I've worked for Verizon as Facility Engineer and
+				MTA New York City Transit as Electrical Engineer.
+				<br />
+				<br />
+				Since 2020, I've been working on my skills to become a software engineer
+				and I joined 100Devs software agency to sharpen my skills by building
+				full-stack projects and collaborate with other engineers. <br />
+				<br /> I've been serving the Army Reserve as a vehicle mechanic since
 				2015.
 			</SectionText>
 			<CarouselContainer ref={carouselRef} onScroll={handleScroll}>

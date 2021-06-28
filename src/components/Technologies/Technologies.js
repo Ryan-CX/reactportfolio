@@ -29,8 +29,7 @@ const Technologies = () => (
 				<ListContainer>
 					<ListTitle>Front-End</ListTitle>
 					<ListParagraph>
-						Experience with <br />
-						React
+						Experienced in HTML/CSS to libraries like React
 					</ListParagraph>
 				</ListContainer>
 			</ListItem>
@@ -39,10 +38,7 @@ const Technologies = () => (
 				<FaNodeJs size='3rem' />
 				<ListContainer>
 					<ListTitle>Back-End</ListTitle>
-					<ListParagraph>
-						Experience with <br />
-						NodeJS
-					</ListParagraph>
+					<ListParagraph>Experience with JS and Node.</ListParagraph>
 				</ListContainer>
 			</ListItem>
 

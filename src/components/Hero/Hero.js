@@ -19,9 +19,6 @@ const Hero = (props) => (
 				NY. <br />I enjoy making complex problems simple, elegant and crafting
 				clean & user-friendly experiences.
 			</SectionText>
-			<Button onClick={() => (window.location = 'https://google.com')}>
-				Learn More
-			</Button>
 		</LeftSection>
 	</Section>
 );

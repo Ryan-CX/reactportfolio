@@ -30,7 +30,7 @@ const Header = () => (
 					}}
 				>
 					<MdLocalCafe size='4rem' />
-					<Span>Portfolio</Span>
+					<Span></Span>
 				</a>
 			</Link>
 		</Div1>

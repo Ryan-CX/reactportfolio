@@ -44,12 +44,11 @@ export const projects = [
 export const TimeLineData = [
 	{
 		year: 2015,
-		text:
-			'Graduate my master from NJIT, worked as Facility Engineer for Verizon',
+		text: 'Graduate my master from NJIT, worked as Facility Engineer for Verizon',
 	},
 	{
 		year: 2016,
-		text: 'Joined the US Army and went for training for 6 months.',
+		text: 'Joined the US Army and went for training.',
 	},
 	{
 		year: 2017,

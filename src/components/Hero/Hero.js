@@ -5,7 +5,7 @@ import {
 	SectionText,
 	SectionTitle,
 } from '../../styles/GlobalComponents';
-import Button from '../../styles/GlobalComponents/Button';
+
 import { LeftSection } from './HeroStyles';
 
 const Hero = (props) => (
@@ -15,9 +15,9 @@ const Hero = (props) => (
 				Hi, I'm Chen
 			</SectionTitle>
 			<SectionText>
-				I'm Chenguang Xu, a software engineer and sports enthusiast in Brooklyn,
-				NY. <br />I enjoy making complex problems simple, elegant and crafting
-				clean & user-friendly experiences.
+				I'm Chenguang Xu, a software engineer in Brooklyn, NY. <br />I enjoy
+				making complex problems simple, elegant and crafting clean &
+				user-friendly experiences.
 			</SectionText>
 		</LeftSection>
 	</Section>

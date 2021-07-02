@@ -72,11 +72,14 @@ const Timeline = () => {
 				MTA New York City Transit as Electrical Engineer.
 				<br />
 				<br />
-				Since 2020, I've been working on my skills to become a software engineer
-				and I joined 100Devs software agency to sharpen my skills by building
-				full-stack projects and collaborate with other engineers. <br />
-				<br /> I've been serving the Army Reserve as a vehicle mechanic since
-				2015.
+				Since 2020, I've been working on my software engineering skills. I
+				joined 100Devs software agency, built different projects and had the
+				chance the work with other engineers. <br />
+				<br /> I've also been serving the US Army Reserve as a{' '}
+				<a href='https://photos.app.goo.gl/Ehb3BGf3tRy9Xw6f6' target='_blank'>
+					vehicle mechanic{' '}
+				</a>
+				since 2015.
 			</SectionText>
 			<CarouselContainer ref={carouselRef} onScroll={handleScroll}>
 				<>

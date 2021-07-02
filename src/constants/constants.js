@@ -1,24 +1,35 @@
 export const projects = [
 	{
-		title: 'MERN Memories',
+		title: 'Timeline',
 		description:
-			"Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+			" The App is called Timeline simply because I use Google Map's timeline feature a lot and I really like it. So I made this Full Stack MERN Application with additional features from ReactMapGL and Mapbox, that allows users to log in and save the places they've visited.",
 		image: '/images/1.png',
-		tags: ['Mongo', 'Express', 'React', 'Node'],
-		source: 'https://google.com',
-		visit: 'https://google.com',
+		tags: ['MongoDB', 'Express', 'React', 'ReactMapGL'],
+		source: 'https://github.com/Ryan-CX/timeline',
+		visit: 'https://time-line1.netlify.app/',
 		id: 0,
 	},
 	{
-		title: 'E-Commerce',
+		title: 'EZchat',
 		description:
-			"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+			'Full Stack App based on React, Firebase, React-Chat-Engine API that let you use existing social accounts like Google to login and create/join chat.',
+		image: '/images/4.jpg',
+		tags: ['React', 'ChatEngine', 'Firebase'],
+		source: 'https://github.com/Ryan-CX/EzChat',
+		visit: 'https://ezchatapp.netlify.app/',
+		id: 3,
+	},
+	{
+		title: 'Crypto Currency tracer',
+		description:
+			'Crypto Currency tracer built with NextJS and Coingecko API. Displaying top 10 hottest Crypto Currency and can be narrowed down to specific name by entering the name in the search bar.',
 		image: '/images/2.png',
-		tags: ['React', 'JavaScript'],
-		source: 'https://google.com',
-		visit: 'https://google.com',
+		tags: ['Nextjs', 'Coingecko API'],
+		source: 'https://github.com/Ryan-CX/cryptotracker',
+		visit: 'https://cryptotracker-seven.vercel.app/',
 		id: 1,
 	},
+
 	{
 		title: 'WebRTC App',
 		description:
@@ -28,16 +39,6 @@ export const projects = [
 		source: 'https://google.com',
 		visit: 'https://google.com',
 		id: 2,
-	},
-	{
-		title: 'EZchat',
-		description:
-			'Full Stack App based on React, Firebase, React-Chat-Engine API that let you use existing accounts like Google to login and create/join chat.',
-		image: '/images/4.jpg',
-		tags: ['React', 'ChatEngine', 'Firebase'],
-		source: 'https://github.com/Ryan-CX/EzChat',
-		visit: 'https://ezchatapp.netlify.app/',
-		id: 3,
 	},
 ];
 

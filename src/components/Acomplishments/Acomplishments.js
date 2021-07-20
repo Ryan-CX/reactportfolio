@@ -13,7 +13,7 @@ const data = [
 		categories: 'FW/Libraries',
 		text: 'React, Node.js, Express, Bootstrap',
 	},
-	{ categories: 'Database', text: 'MongoDB' },
+	{ categories: 'Database', text: 'MongoDB, MySQL, PostgreSQL' },
 	{ categories: 'Others', text: 'Git, Bash, Heroku, Netlify, Rest API' },
 ];
 

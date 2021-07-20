@@ -28,9 +28,7 @@ const Technologies = () => (
 				<DiReact size='3rem' />
 				<ListContainer>
 					<ListTitle>Front-End</ListTitle>
-					<ListParagraph>
-						Experienced in HTML/CSS to libraries like React
-					</ListParagraph>
+					<ListParagraph>React/HTML/CSS/Bootstrap/Semantic UI</ListParagraph>
 				</ListContainer>
 			</ListItem>
 
@@ -38,7 +36,7 @@ const Technologies = () => (
 				<FaNodeJs size='3rem' />
 				<ListContainer>
 					<ListTitle>Back-End</ListTitle>
-					<ListParagraph>Experience with JS and Node.</ListParagraph>
+					<ListParagraph>JavaScript/Node.js/Express.js/Python</ListParagraph>
 				</ListContainer>
 			</ListItem>
 
@@ -46,10 +44,7 @@ const Technologies = () => (
 				<DiFirebase size='3rem' />
 				<ListContainer>
 					<ListTitle>Database</ListTitle>
-					<ListParagraph>
-						Experience with <br />
-						MongoDB
-					</ListParagraph>
+					<ListParagraph>MongoDB/MySQL/PostgreSQL</ListParagraph>
 				</ListContainer>
 			</ListItem>
 		</List>

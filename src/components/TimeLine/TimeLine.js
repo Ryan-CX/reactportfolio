@@ -73,8 +73,8 @@ const Timeline = () => {
 				<br />
 				<br />
 				Since 2020, I've been working on my software engineering skills. I
-				joined 100Devs software agency, built different projects and had the
-				chance the work with other engineers. <br />
+				joined 100Devs community, built different projects and had the chance
+				the work with other engineers. <br />
 				<br /> I've also been serving the US Army Reserve as a{' '}
 				<a href='https://photos.app.goo.gl/Ehb3BGf3tRy9Xw6f6' target='_blank'>
 					vehicle mechanic{' '}

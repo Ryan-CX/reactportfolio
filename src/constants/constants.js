@@ -24,20 +24,20 @@ export const projects = [
 		description:
 			'Full Stack App based on React, Firebase, React-Chat-Engine API that let you use existing social accounts like Google to login and create/join chat.',
 		image: '/images/4.jpg',
-		tags: ['React', 'ChatEngine', 'Firebase'],
+		tags: ['React', 'ChatEngine API', 'Firebase'],
 		source: 'https://github.com/Ryan-CX/EzChat',
 		visit: 'https://ezchatapp.netlify.app/',
 		id: 3,
 	},
 
 	{
-		title: 'WebRTC App',
+		title: 'Cocktail DB',
 		description:
-			"This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+			'The application allows a user to search for a cocktail by the name of the cocktail, returning the results under the search input. Clicking on a cocktail provides information on the ingredients and instructions on how to make the cocktail',
 		image: '/images/3.jpg',
-		tags: ['React', 'WebRTC'],
+		tags: ['React', 'CocktailDB API'],
 		source: 'https://google.com',
-		visit: 'https://google.com',
+		visit: 'https://github.com/Ryan-CX/cocktailDB',
 		id: 2,
 	},
 ];
@@ -53,7 +53,7 @@ export const TimeLineData = [
 	},
 	{
 		year: 2017,
-		text: 'Worked for MTA-New York City Transit as Electrical Engineer.',
+		text: 'Joined for MTA-New York City Transit as Electrical Engineer.',
 	},
 	{ year: 2020, text: 'Joined 100Devs community as software engineer.' },
 ];

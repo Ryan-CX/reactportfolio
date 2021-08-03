@@ -36,7 +36,7 @@ export const projects = [
 			'The application allows a user to search for a cocktail by the name of the cocktail, returning the results under the search input. Clicking on a cocktail provides information on the ingredients and instructions on how to make the cocktail',
 		image: '/images/3.jpg',
 		tags: ['React', 'CocktailDB API'],
-		source: 'https://google.com',
+		source: 'https://cocktaildb1.netlify.app/',
 		visit: 'https://github.com/Ryan-CX/cocktailDB',
 		id: 2,
 	},

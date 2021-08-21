@@ -2,12 +2,22 @@ export const projects = [
 	{
 		title: 'Timeline',
 		description:
-			" The App is called Timeline simply because I use Google Map's timeline feature a lot and I really like it. So I made this Full Stack MERN Application with features from ReactMapGL and Mapbox, that allows users to log in and save the places they've visited.",
+			"Full Stack MERN Application with features from ReactMapGL and Mapbox, that allows users to log in and save the places they've visited.",
 		image: '/images/1.png',
 		tags: ['MongoDB', 'Express', 'React', 'ReactMapGL'],
 		source: 'https://github.com/Ryan-CX/timeline',
 		visit: 'https://time-line1.netlify.app/',
 		id: 0,
+	},
+	{
+		title: 'Travel Helper',
+		description:
+			'MERN stack app that can help you search for restaurant, hotels and attractions around the world based on locations',
+		image: '/images/4.jpg',
+		tags: ['React', 'Google Map API', 'Rapid API', 'Material UI'],
+		source: 'https://github.com/Ryan-CX/travel_helper',
+		visit: 'https://travel-helper.netlify.app/',
+		id: 3,
 	},
 	{
 		title: 'Crypto Currency Tracker',
@@ -18,16 +28,6 @@ export const projects = [
 		source: 'https://github.com/Ryan-CX/cryptotracker',
 		visit: 'https://cryptotracker-seven.vercel.app/',
 		id: 1,
-	},
-	{
-		title: 'EZchat',
-		description:
-			'Full Stack App based on React, Firebase, React-Chat-Engine API that let you use existing social accounts like Google to login and create/join chat.',
-		image: '/images/4.jpg',
-		tags: ['React', 'ChatEngine API', 'Firebase'],
-		source: 'https://github.com/Ryan-CX/EzChat',
-		visit: 'https://ezchatapp.netlify.app/',
-		id: 3,
 	},
 
 	{

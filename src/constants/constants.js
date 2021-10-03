@@ -12,7 +12,7 @@ export const projects = [
 	{
 		title: 'Travel Helper',
 		description:
-			'MERN stack app that can help you search for restaurant, hotels and attractions around the world based on locations',
+			'React app that can help you search for restaurant, hotels and attractions around the world based on locations',
 		image: '/images/4.jpg',
 		tags: ['React', 'Google Map API', 'Rapid API', 'Material UI'],
 		source: 'https://github.com/Ryan-CX/travel_helper',

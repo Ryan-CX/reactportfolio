@@ -20,9 +20,9 @@ export const projects = [
 		id: 3,
 	},
 	{
-		title: 'Crypto Currency Tracker',
+		title: 'CryptoCurrency Tracker',
 		description:
-			'Crypto Currency Tracker built with NextJS and Coingecko API. Displaying top 10 hottest Crypto Currency and can be narrowed down to specific name by entering the name in the search bar.',
+			'CryptoCurrency Tracker built with NextJS and Coingecko API. Displaying top 10 hottest Crypto Currency and can be narrowed down to specific name by entering the name in the search bar.',
 		image: '/images/2.png',
 		tags: ['Nextjs', 'Coingecko API'],
 		source: 'https://github.com/Ryan-CX/cryptotracker',

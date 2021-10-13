@@ -42,7 +42,7 @@ const Footer = () => {
 						<AiFillGithub size='3rem' />
 					</SocialIcons>
 					<SocialIcons
-						href='https://www.linkedin.com/in/chenguang-xu-01b8b9140/'
+						href='https://www.linkedin.com/in/chenguang-xu/'
 						target='_blank'
 					>
 						<AiFillLinkedin size='3rem' />

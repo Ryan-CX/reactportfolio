@@ -21,7 +21,7 @@ const Hero = (props) => (
 				<br /> <br />
 				You can find my resume{' '}
 				<a
-					href='https://drive.google.com/file/d/1Geu7JLiYUL43MVPNrh7e7taNlN0RpspC/view?usp=sharing'
+					href='https://drive.google.com/file/d/1zfBh0IgjLlQ5ynVZAbqcqc0HQ-0LPffl/view?usp=sharing'
 					target='_blank'
 					style={{ color: 'white' }}
 				>
